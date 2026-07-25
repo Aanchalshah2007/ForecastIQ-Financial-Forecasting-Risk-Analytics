@@ -1,6 +1,4 @@
-# ForecastIQ
-
-**Statistical Time Series Forecasting & Risk Analytics Engine**
+# Statistical Time Series Forecasting & Risk Analytics Engine
 
 ForecastIQ is an end-to-end financial analytics platform that forecasts market trends and quantifies portfolio risk using classical statistical time series methods, paired with an LLM-powered executive reporting layer.
 
