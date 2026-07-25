@@ -8,6 +8,8 @@ ForecastIQ is an end-to-end financial analytics platform that forecasts market t
 
 ForecastIQ processes historical OHLCV (Open-High-Low-Close-Volume) data, generates statistically validated price forecasts, and computes institutional-grade risk metrics - all surfaced through an interactive Streamlit dashboard with AI-generated executive summaries.
 
+**[Live Demo](#)** - https://forecastiq-financial-forecasting-risk-analytics-cggqyhynuac6vz.streamlit.app/
+
 ## Features
 
 - **Data Processing**: Ingests and cleans 12.5K+ OHLCV records, engineering 5 financial features for downstream modeling
