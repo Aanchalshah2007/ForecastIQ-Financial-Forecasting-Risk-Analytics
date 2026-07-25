@@ -12,7 +12,7 @@ ForecastIQ processes historical OHLCV (Open-High-Low-Close-Volume) data, generat
 
 - **Data Processing**: Ingests and cleans 12.5K+ OHLCV records, engineering 5 financial features for downstream modeling
 - **Stationarity Testing**: Runs ADF (Augmented Dickey-Fuller) and KPSS tests to determine series stationarity and the ARIMA differencing parameter (d=1)
-- **Forecasting Engine**: Optimizes ARIMA(1,1,1) via AIC comparison across 6 candidate models, achieving 0.63%–1.13% MAPE
+- **Forecasting Engine**: Optimizes ARIMA(1,1,1) via AIC comparison across 6 candidate models, achieving 0.63%-1.13% MAPE
 - **30-Day Forecasts**: Generates price forecasts with 95% confidence intervals
 - **Risk Engine**: Computes 6 institutional-grade risk metrics -
   - Value at Risk (VaR)
@@ -47,7 +47,7 @@ ForecastIQ processes historical OHLCV (Open-High-Low-Close-Volume) data, generat
 
 ## Results
 
-- Achieved **0.63%–1.13% MAPE** across forecast horizons
+- Achieved **0.63%-1.13% MAPE** across forecast horizons
 - Delivered 30-day forecasts with **95% confidence intervals**
 - Consolidated **17 pre-computed metrics** into automated executive reports
 
